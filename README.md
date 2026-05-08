@@ -1,4 +1,4 @@
-<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/84ed0362-751f-440f-b6a6-9d6fd823f5b2" /># PulsationV1 is a Hypixel skyblock advanced Macro made for the community. This project was made because i have an inexplicable amount of hatred towards the skyblock admins and want everyone to start macroing 
+# PulsationV1 is a Hypixel skyblock advanced Macro made for the community. This project was made because i have an inexplicable amount of hatred towards the skyblock admins and want everyone to start macroing 
 Feature List:
 
 
