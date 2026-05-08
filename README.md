@@ -16,6 +16,8 @@ Webhook support
 Profit calculator
 Use O to open the config and K to start the macro (change in controls accordingly)
 before starting, ensure the auto start pest, auto start visitor, and wardrobe swap is off in taunahi settings. Use taunahi's rewarper.
+
+
 <img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/d46e0056-d237-4177-be72-eee3b1982f29" />
 
 
