@@ -1,5 +1,8 @@
-# PulsationV1 is a Hypixel skyblock advanced Macro made for the community. This project was made because i have an inexplicable amount of hatred towards the skyblock admins and want everyone to start macroing 
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/84ed0362-751f-440f-b6a6-9d6fd823f5b2" /># PulsationV1 is a Hypixel skyblock advanced Macro made for the community. This project was made because i have an inexplicable amount of hatred towards the skyblock admins and want everyone to start macroing 
 Feature List:
+
+
+Use O to open the config and K to start the macro (change in controls accordingly)
 
 Improved wardrobe swap (adds visitor wardrobe, much less delays)
 Equipment swap
@@ -14,16 +17,17 @@ Junk dropper
 Themes (check discord #gui-themes)
 Webhook support
 Profit calculator
-Use O to open the config and K to start the macro (change in controls accordingly)
+
 before starting, ensure the auto start pest, auto start visitor, and wardrobe swap is off in taunahi settings. Use taunahi's rewarper.
-
-
-<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/d46e0056-d237-4177-be72-eee3b1982f29" />
-
 
 enable visitors, wardrobe swap, equipment swap according to your needs, all can be toggled on or off
 set the start and end of the farm using the button in config while standing on that block in the config.
 
 change the auto direction and should work on most farms.
+
+
+
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/d46e0056-d237-4177-be72-eee3b1982f29" />
+
 
 imagedynamic rest works by randomly choosing a time between your minimum scripting time and maximum scripting time. once that is reached you will be automatically disconnected. dynamic rest is always on, can disable by setting scripting time very high
